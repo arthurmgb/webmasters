@@ -272,7 +272,10 @@ footer {
   .tech {
     padding: 20px 20px 10px 20px;
   }
-  .heading{
-    font-size: 16px;
+  .heading {
+    font-size: 14px;
+  }
+  main {
+    padding: 15px;
   }
 }
