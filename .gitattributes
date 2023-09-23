@@ -1,5 +1,0 @@
-cursowebmasters.MOV filter=lfs diff=lfs merge=lfs -text
-Curso filter=lfs diff=lfs merge=lfs -text
-Webmasters.MOV filter=lfs diff=lfs merge=lfs -text
-Curso[[:space:]]Webmasters.MOV filter=lfs diff=lfs merge=lfs -text
-*.MOV filter=lfs diff=lfs merge=lfs -text

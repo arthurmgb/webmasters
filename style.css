@@ -239,6 +239,8 @@ video {
   position: absolute;
   cursor: pointer;
   width: 100%;
+  height: 100%;
+  object-fit: cover;
   border: 3px solid #0cf1ff;
   border-radius: 12px;
   -webkit-box-shadow: 5px 0px 33px -8px rgba(12, 243, 255, 0.73);
